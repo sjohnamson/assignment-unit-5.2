@@ -1,3 +1,11 @@
+body {
+    margin: 0;
+}
+
+.body {
+    background-image: url("../images/record.png"); /* B&W record background */
+    background-repeat: repeat;
+}
 
 .header {
     background-color: brown;
